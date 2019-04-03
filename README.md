@@ -3,8 +3,7 @@
 #include <conio.h>
 #include <cstring>
 #include<cstdlib>
-#include <math.h>
-using namespace std;
+using namespace std;/////
 
 int check(char s[], int t){
 	int i,a=0,b=0,c=0;
